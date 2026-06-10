@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vbk-dev5.github.io/Boulangerie-a-la-Charlotte-Coquelles/sitemap.xml
